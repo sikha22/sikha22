@@ -19,7 +19,7 @@
 <a style="padding-right:8px;" href=/> </a>
 <a href= "https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/js2.jpg"/> </a>
+<a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"/> </a>
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
