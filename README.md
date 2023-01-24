@@ -15,7 +15,7 @@
 - 📫 How to reach me **ananyasharma02209@gmail.com**
 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-<a style="padding-right:8px;" href= </a> 
+<a style="padding-right:8px;" href= /></a> 
 <a style="padding-right:8px;" href=/> </a>
 <a href= "https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
