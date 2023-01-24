@@ -13,6 +13,7 @@
 - 👯 I’m looking to collaborate on **DSA project**
 
 - 📫 How to reach me **ananyasharma02209@gmail.com**
+
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 <a style="padding-right:8px;" href= </a> 
 <a style="padding-right:8px;" href=/> </a>
