@@ -13,7 +13,12 @@
 - 👯 I’m looking to collaborate on **DSA project**
 
 - 📫 How to reach me **ananyasharma02209@gmail.com**
-
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+<a style="padding-right:8px;" href= </a> 
+<a style="padding-right:8px;" href=/> </a>
+<a href= "https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shikhas10174851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikhas10174851" height="30" width="40" /></a>
