@@ -33,6 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikha22&show_icons=true&locale=en&layout=compact" alt="sikha22" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikha22&show_icons=true&locale=en" alt="sikha22" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikha22&show_icons=true&locale=en" alt="sikha22" /></p> -->
+![Sikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikha22&theme=midnight-purple&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikha22&" alt="sikha22" /></p>
