@@ -1,7 +1,11 @@
 ![MasterHead](https://c4.wallpaperflare.com/wallpaper/8/533/170/cup-tool-cade-programmer-wallpaper-preview.jpg)
 
+
 <h1 align="center">Hi 👋, I'm Sikha Kumari</h1>
-<h3 align="center">An Enthusiastic Programmer</h3>
+<p align="center">
+ <a href = "https://github.com/Twinkle0799/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF1414&size=18&center=true&lines=An+Enthusiastic+Web+Developer+"></a>
+</p> 
+<!-- <h3 align="center">An Enthusiastic Programmer</h3> -->
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikha22&label=Profile%20views&color=0e75b6&style=flat" alt="sikha22" /> </p>
@@ -29,11 +33,13 @@
 <p align="left">
 <a href="https://twitter.com/shikhas10174851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikhas10174851" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://leetcode.com/Sikha09/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="sikha09" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikha22&show_icons=true&locale=en&layout=compact" alt="sikha22" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikha22&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="sikha22" /></p><br>
+
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikha22&show_icons=true&locale=en" alt="sikha22" /></p> -->
 ![Sikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikha22&theme=midnight-purple&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikha22&" alt="sikha22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikha22&theme=midnight-purple" alt="sikha22" /></p>
