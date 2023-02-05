@@ -1,5 +1,6 @@
-![MasterHead](https://c4.wallpaperflare.com/wallpaper/8/533/170/cup-tool-cade-programmer-wallpaper-preview.jpg)
-
+<!-- ![MasterHead](https://c4.wallpaperflare.com/wallpaper/8/533/170/cup-tool-cade-programmer-wallpaper-preview.jpg) -->
+<p align ="center">
+ <img src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif"></p>
 
 ## 🙋‍♂️ About Me
 <h1 align="center">Hi 👋, I'm Sikha Kumari</h1>
