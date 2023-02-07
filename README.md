@@ -48,3 +48,9 @@
 ![Sikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sikha22&theme=midnight-purple&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sikha22&theme=midnight-purple" alt="sikha22" /></p>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sikha22&hide_border=true&area=true&point=transparent&theme=radical">
+
+<details>
+ <summary>:trident: Typeracer Scoreboard</summary>
+ <a href="https://data.typeracer.com/pit/profile?user=sirius_07&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=sirius_07" border="1" alt="TypeRacer.com scorecard for user sirius_07"/></a>
+</details
