@@ -3,7 +3,7 @@
  <img src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif"></p>
 
 ## 🙋‍♂️ About Me
-<h1 align="center">Hi 👋, I'm Sikha Kumari</h1>
+<h1 align="center">Hi 👋, I'm Shikha Kumari</h1>
 <p align="center">
  <a href = "https://github.com/Twinkle0799/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF1414&size=18&center=true&lines=An+Enthusiastic+Web+Developer+"></a>
 </p> 
